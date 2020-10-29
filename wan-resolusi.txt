@@ -3,5 +3,7 @@ WAN RESOLUSI :
 - Mengumpulkan uang untuk membeli tanah di bangka
 - Bangun rumah sederhana di tanah itu
 
-Sistem webbase SAI
+Sistem Webbase SIA :
+^ Menu Master
 ^ Menu Transaksi
+
