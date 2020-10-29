@@ -1,0 +1,2 @@
+WAN RESOLUSI :
+- Membuat sistem berbasis web dengan laravel versi 8
