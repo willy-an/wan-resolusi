@@ -1,3 +1,4 @@
 WAN RESOLUSI :
 - Membuat sistem berbasis web dengan laravel versi 8
 - Mengumpulkan uang untuk membeli tanah di bangka
+- Bangun rumah sederhana di tanah itu
