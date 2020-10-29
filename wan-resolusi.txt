@@ -5,3 +5,5 @@ WAN RESOLUSI :
 
 Sistem Webbase SIA :
 ^ Menu Master
+^ Menu Transaksi
+
